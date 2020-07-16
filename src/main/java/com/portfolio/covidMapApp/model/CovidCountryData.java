@@ -1,9 +1,9 @@
 package com.portfolio.covidMapApp.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 import java.time.LocalDateTime;
-
 public class CovidCountryData{
 
     @JsonProperty("Country")
