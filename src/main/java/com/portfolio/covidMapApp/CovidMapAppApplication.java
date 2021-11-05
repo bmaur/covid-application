@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CovidMapAppApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CovidMapAppApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(CovidMapAppApplication.class, args);
+    }
 
 }
